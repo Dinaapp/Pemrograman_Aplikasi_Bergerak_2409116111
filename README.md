@@ -1,3 +1,7 @@
+## Nama: Rizky Wahyu Dina Putri
+## NIM: 2409116111
+
+
 # SOURCE CODE
 
 ## Package Models
